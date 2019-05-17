@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<!-- saved from url=(0072)https://github.com/rafalzalwert/RestApiClient/settings/toggle_permission -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+  <link rel="dns-prefetch" href="https://github.githubassets.com/">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com/">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com/">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com/">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com/">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com/">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-KYH8zRCvGYQoVsdDKgYaJRXDN9CwQu0YkPVgbKm4cOiqLAxNisg2Kjex6tfrEB3yTAwtXcFY/sxBVj/3IkIiqg==" rel="stylesheet" href="./ensation960_files/frameworks-a70126cbff30372f13f599b76353080b.css">
+  
+    <link crossorigin="anonymous" media="all" integrity="sha512-C2PeOYJLfGX0l1usuxFpXXEX27kP3TXRWl7jQ/qpMF59td5XFUUqB/EmZL2loRRBzouPP96e09oq2jovH+smEA==" rel="stylesheet" href="./ensation960_files/github-0d139b56f7fdba32feb4dfab70407a06.css">
+    
+    
+    
+    
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Confirm password</title>
+    <meta name="description" content="GitHub is where people build software. More than 31 million people use GitHub to discover, fork, and contribute to over 100 million projects.">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://github.com/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta property="og:url" content="https://github.com">
+    <meta property="og:site_name" content="GitHub">
+    <meta property="og:title" content="Build software better, together">
+    <meta property="og:description" content="GitHub is where people build software. More than 31 million people use GitHub to discover, fork, and contribute to over 100 million projects.">
+    <meta property="og:image" content="https://github.githubassets.com/images/modules/open_graph/github-logo.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="1200">
+    <meta property="og:image" content="https://github.githubassets.com/images/modules/open_graph/github-mark.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="620">
+    <meta property="og:image" content="https://github.githubassets.com/images/modules/open_graph/github-octocat.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="620">
+
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzc0MDAzMjE1OmVhODhkZDZiMTM5MDczY2M2NWY3N2FhM2EyZTU0NjM4NWRlOTYwNDk5NmIyMjM4NjM0YTY3OTFmZDdkODQ4NzU=--917645d4034966e36a5c1f3600951a894cbc43df">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
+  <meta name="request-id" content="4C24:12887:64771AF:9B13528:5C69C5D5" data-pjax-transient="">
+
+
+  
+
+  <meta name="selected-link" value="/rafalzalwert/RestApiClient/settings/toggle_permission" data-pjax-transient="">
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-request_id" content="4C24:12887:64771AF:9B13528:5C69C5D5"><meta name="octolytics-dimension-region_edge" content="ams"><meta name="octolytics-dimension-region_render" content="iad"><meta name="octolytics-actor-id" content="28185323"><meta name="octolytics-actor-login" content="rafalzalwert"><meta name="octolytics-actor-hash" content="6ca360af5c4169e3b1f26aaa9fab010151d3fdba25e9250bbad126e14077c1fb">
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/edit_repositories/toggle_permission" data-pjax-transient="true">
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+  <meta class="js-ga-set" name="userId" content="6105b5b2f87287a6c7d7984f649c3b35">
+
+<meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="rafalzalwert">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="MWIwNGRhOWI5YTJmNzFiNWE3MzA1NzBhNzI1ZmUwM2Y4MjM4NzEzNzNkN2EyOGJlMDI4ZDcxYmI1N2RlZjFlYXx7InJlbW90ZV9hZGRyZXNzIjoiMzEuMTgzLjE2OC4yMDUiLCJyZXF1ZXN0X2lkIjoiNEMyNDoxMjg4Nzo2NDc3MUFGOjlCMTM1Mjg6NUM2OUM1RDUiLCJ0aW1lc3RhbXAiOjE1NTA0MzU4MDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_BROWSING_V2,MARKETPLACE_INSIGHTS_V2">
+
+  <meta name="html-safe-nonce" content="28bbd7abccfd08901b12eccb58ec85953d5a4178">
+
+  <meta http-equiv="x-pjax-version" content="688077f92de7af23573f865e9a2e903f">
+  
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+
+  <link rel="manifest" href="https://github.com/manifest.json" crossorigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production page-responsive min-width-0 session-authentication">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="https://github.com/rafalzalwert/RestApiClient/settings/toggle_permission#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+      <div class="header header-logged-out width-full pt-5 pb-4" role="banner">
+  <div class="container clearfix width-full text-center">
+    <a class="header-logo" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+      <svg height="48" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="48" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+    </a>
+  </div>
+</div>
+
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+  <div role="main" class="application-main " data-commit-hovercards-enabled="">
+      
+      <div id="js-pjax-container" data-pjax-container="">
+        
+
+<div id="login" class="auth-form confirm-password-form px-3">
+  <!-- '"` --><!-- </textarea></xmp> --><form action="https://github.com/rafalzalwert/RestApiClient/settings/toggle_permission" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="VDLn/QqEyr+ycBPhdcjg3cMgJG8gr4pvSKSHuydVDS3Vy2u6lDn/9iV8aJeqXjn8qhhk6lIjDaAy1i68ZvOsgA==">    <input type="hidden" name="repository" id="repository" value="RestApiClient" class="form-control">
+<input type="hidden" name="sudo_referrer" id="sudo_referrer" value="https://github.com/rafalzalwert/RestApiClient/settings" class="form-control">
+<input type="hidden" name="user_id" id="user_id" value="rafalzalwert" class="form-control">
+<input type="hidden" name="utf8" id="utf8" value="✓" class="form-control">
+<input type="hidden" name="verify" id="verify" value="RestApiClient" class="form-control">
+    <div class="auth-form-header p-0">
+      <h1>
+        Confirm password to continue
+      </h1>
+    </div>
+
+    <div id="js-flash-container">
+
+</div>
+
+
+    <div class="auth-form-body mt-3">
+          <label for="sudo_password">
+            Password <a class="label-link" href="https://github.com/password_reset">Forgot password?</a>
+          </label>
+          <input type="password" name="sudo_password" id="sudo_password" class="form-control form-control input-block" autofocus="autofocus">
+
+        <button type="submit" class="btn btn-block btn-primary">Confirm password</button>
+
+    </div>
+</form>
+  
+
+  <p class="note px-3 my-3 text-center">
+    <strong>Tip:</strong>
+      You are entering
+      <a href="https://help.github.com/articles/sudo-mode">sudo mode</a>.
+      We won’t ask for your password again for a few hours.
+  </p>
+
+</div>
+
+      </div>
+      <div class="modal-backdrop js-touch-events"></div>
+  </div>
+
+        <div class="footer container-lg p-responsive py-6 mt-6 f6" role="contentinfo">
+    <ul class="list-style-none d-flex flex-justify-center">
+        <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a class="link-gray" data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+    </ul>
+  </div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-YfiOQfcBmPBSdKjr8AOICO9fwE7C3m6h7nTT1o9oWwVsonJudi++Oqyd2wCynfJ6pyTXVFsqsv0aNhc+KJOuFw==" type="application/javascript" src="./ensation960_files/frameworks-482260f8755c70642a3ef1f1448e1c47.js.pobrane"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-l9Ar5oP2cfw418WS8z+wBLS74iChIxHgs+tPxVtSKZqwGmd0ZUVCiDQ5JFbAHFwvs9G/MsKap4cHgZvYmQU1lA==" type="application/javascript" src="./ensation960_files/github-89163211800622292b190e405ff22204.js.pobrane"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="https://github.com/rafalzalwert/RestApiClient/settings/toggle_permission">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="https://github.com/rafalzalwert/RestApiClient/settings/toggle_permission">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog"></template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  
+
+
+</body></html>

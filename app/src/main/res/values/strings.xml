@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MemoryGameV2</string>
+    <string name="add_to_db">Dodaj zdjęcie</string>
+    <string name="show_history">Galeria</string>
+    <string name="Play">Graj</string>
+    <string name="take_picture">Zrób zdjęcie</string>
+    <string name="Photo">Zdjecie</string>
+    <string name="clear_gallery">Wyczyść</string>
+    <string name="photo">Image</string>
+    <string name="photo2">photo2</string>
+    <string name="getBack">Wróć</string>
+    <string name="delete">Usuń</string>
+    <string name="empty">Brak zdjęć</string>
+    <string name="signOut">Wyloguj</string>
+    <string name="login">Zaloguj</string>
+    <string name="register">Zarejestruj</string>
+    <string name="selectBoard">Wybierz grę</string>
+    <string name="UsersGallery">"Galeria Użytkowników"</string>
+    <string name="Rank">Gra Rankingowa</string>
+    <string name="butonRank">Ranking</string>
+    <string name="ownGallery">Własna galeria</string>
+    <string name="logo">Logo</string>
+    <string name="ready">Gotowe</string>
+</resources>
