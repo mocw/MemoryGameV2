@@ -46,7 +46,7 @@ public class ShowImages extends AppCompatActivity  implements Serializable {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_display_images);
+        setContentView(R.layout.activity_show_images);
         listView = findViewById(R.id.list);
         clear = findViewById(R.id.buttonClear);
         progressDialog = new ProgressDialog(ShowImages.this);
