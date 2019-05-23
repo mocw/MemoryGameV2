@@ -137,7 +137,7 @@ public class EmptyGameActivity extends AppCompatActivity {
                 @Override
                 public void run() {
                     try {
-                        sleep(10*1000);
+                        sleep(5*1000);
                         int size = imgGameList.size();
                         Intent intent = new Intent(EmptyGameActivity.this, GameActivity.class);
                         intent.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);

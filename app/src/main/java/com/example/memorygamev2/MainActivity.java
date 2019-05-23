@@ -3,6 +3,7 @@ package com.example.memorygamev2;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.drawable.Drawable;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -23,13 +24,14 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
-    Toolbar toolbar;
+
     ProgressBar progressBar;
     EditText userEmail;
     EditText userPassword;
     Button userLogin;
     Button userSignUp;
     ImageView logo;
+
 
     FirebaseAuth firebaseAuth;
 
@@ -38,15 +40,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        toolbar = findViewById(R.id.toolbar);
-        progressBar = findViewById(R.id.progressBar);
+        progressBar = findViewById(R.id.progressBar2);
         userEmail = findViewById(R.id.etUserEmail);
         userPassword = findViewById(R.id.etUserPass);
         userLogin = findViewById(R.id.btnUserLogin);
         userSignUp=findViewById(R.id.buttonUserSignIp);
         logo = findViewById(R.id.logo);
 
-        toolbar.setTitle("Zaloguj się");
 
         firebaseAuth = FirebaseAuth.getInstance();
 
