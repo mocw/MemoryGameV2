@@ -4,9 +4,9 @@ public class UserStats {
     public String userID;
     public String BoardSize;
     public String email;
-    public String Time;
+    public Double Time;
 
-    public UserStats(String uID,String BSize,String mail,String Tm) {
+    public UserStats(String uID,String BSize,String mail,Double Tm) {
         userID=uID;
         BoardSize = BSize;
         email=mail;

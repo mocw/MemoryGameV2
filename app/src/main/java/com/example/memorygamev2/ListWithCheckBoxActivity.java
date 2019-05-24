@@ -49,16 +49,8 @@ public class ListWithCheckBoxActivity extends AppCompatActivity {
             alert.show();
         }
 
-        android.app.AlertDialog.Builder builder = new android.app.AlertDialog.Builder(this);
-        builder.setMessage("Wybierz zdjęcia, które chcesz dodać do gry")
-                .setCancelable(false)
-                .setPositiveButton("OK", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        return;
-                    }
-                });
-        AlertDialog alert = builder.create();
-        alert.show();
+        Toast.makeText(this, "Wybierz zdjęcia do gry",
+                Toast.LENGTH_LONG).show();
 
         final GalleryAdapter galleryAdapter = new GalleryAdapter(ListWithCheckBoxActivity.this,
                 R.layout.gallery, EmptyUserPicGameActivity.list);

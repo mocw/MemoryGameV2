@@ -201,7 +201,7 @@ public class GameActivity extends AppCompatActivity  implements View.OnClickList
                     }
 
                     UserStats US = new UserStats(ProfileActivity.UID,"2x5",
-                            ProfileActivity.email,Double.toString(timeResult));
+                            ProfileActivity.email,timeResult);
                     mFirebaseDB.push().setValue(US);
                 }
 
