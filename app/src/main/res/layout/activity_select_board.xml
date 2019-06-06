@@ -38,51 +38,48 @@
         />
 
     <Button
+        android:id="@+id/UsersGallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/UsersGallery"
+        android:background="@drawable/buttonshape"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginTop="350dp"
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvSelectBoard"
+        />
+
+    <Button
         android:id="@+id/rankGame"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="400dp"
-        android:background="@drawable/buttonshape"
         android:text="@string/Rank"
+        android:background="@drawable/buttonshape"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
+        android:layout_marginTop="400dp"
         app:layout_constraintBottom_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnOwnGallery"
-        app:layout_constraintVertical_bias="0.691" />
+        app:layout_constraintTop_toBottomOf="@+id/UsersGallery"
+        />
 
     <Button
         android:id="@+id/btnOwnGallery"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="480dp"
-        android:background="@drawable/buttonshape"
         android:text="@string/ownGallery"
+        android:background="@drawable/buttonshape"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
+        android:layout_marginTop="480dp"
         app:layout_constraintBottom_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/rankGame"
-        app:layout_constraintVertical_bias="0.557" />
-
-    <Button
-        android:id="@+id/UsersGallery"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="350dp"
-        android:background="@drawable/buttonshape"
-        android:text="@string/UsersGallery"
-        android:textColor="#FFFFFF"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttonRank"
-        app:layout_constraintVertical_bias="0.114" />
+         />
 
 </android.support.constraint.ConstraintLayout>
